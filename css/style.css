@@ -1571,7 +1571,7 @@ p.para-agileits-w3layouts:nth-child(2) {
 /*-- //news --*/
 /*--team-starts--*/
 .gallery {
-    background: url(../images/bg.jpg) no-repeat 0px 0px fixed;
+    background: url(../images/nature2.jpg) no-repeat 0px 0px fixed;
     background-size: cover;
 }
 .agile_team_grids {
@@ -1666,7 +1666,7 @@ ul.social-icons li a{
 /*--team-ends--*/
 /*-- /counter-agile --*/
 .agileinfo_counter_section {
-    background: url(../images/bg2.jpg)no-repeat 0px 0px;
+    background: url(../images/nature.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
